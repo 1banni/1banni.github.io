@@ -136,16 +136,24 @@ const About = () => {
           <div>
             <p>
               Hi! My name is Will, and I am a software developer. I have built several full-stack
-              web applications and a JavaScript game. I am a passionate and thorough learner, and I
-              enjoy the challenge of creating and improving things.
+              web applications and a JavaScript game. I am a passionate, thorough learner and enjoy
+              the challenge of creating and improving things.
             </p>
 
             <p>
               I've been fortunate to work at <a href="https://yorkcapital.com/">a hedge fund</a> and{' '}
-              <a href="https://pjtpartners.com">a boutique investment bank</a>. Lately I have been
-              improving my skills in React.js and learning Python. I want to make seamless and
-              intuitive applications for users that are fast and reliable, and am excited to grow as
-              an engineer at a company.
+              <a href="https://pjtpartners.com">an investment bank</a>, investing in distressed debt
+              and advising on several billion dollars of restructurings. I transitioned to software
+              engineering because I want to build products and experiences. What I like most about
+              coding is getting to solve complex problems.
+              {/* I am a passionate learner and enjoy solving complex problems. */}
+              {/* I transitioned to engineering because I am passionate creative problem solving, learning, and building things. */}
+            </p>
+
+            <p>
+              Lately I have been improving my skills in React.js and learning Python. I want to make
+              seamless and intuitive applications for users that are fast and reliable, and am
+              excited to grow as an engineer at a company.
             </p>
 
             <p>These are the technologies I have experience with:</p>

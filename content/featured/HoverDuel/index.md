@@ -10,6 +10,4 @@ tech:
   - CSS
 ---
 
-An arena battle game where players can drive
-
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+Hover Duel is a 2-player battle game set in space where you launch bouncing projectiles at your opponent's hovercraft to destroy it. The map has multiple levels/floors and the game evolves through a series of rounds. Players can pick up health and ammo, drive across aerial bridges between platforms, and utilize PacMan-style map edge entry/exit points.
